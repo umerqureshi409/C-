@@ -28,7 +28,7 @@ To run these projects, you need to have a C++ compiler installed on your machine
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/cpp-beginner-projects.git
+    git clone https://github.com/umerqureshi409/cpp-beginner-projects.git
     cd cpp-beginner-projects
     ```
 
